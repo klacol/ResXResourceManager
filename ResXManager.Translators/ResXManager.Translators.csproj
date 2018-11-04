@@ -114,6 +114,7 @@
     <Compile Include="AzureAuthentication.cs" />
     <Compile Include="AzureTranslator.cs" />
     <Compile Include="CredentialItem.cs" />
+    <Compile Include="DeeplTranslator.cs" />
     <Compile Include="MSTerminologyTranslator.cs" />
     <Compile Include="MyMemoryTranslator.cs" />
     <Compile Include="GoogleTranslator.cs" />
